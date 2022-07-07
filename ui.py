@@ -40,7 +40,7 @@ def introduction():
     - 🗂️ Upload a **pre-processed** dataset
     - ⚙️ Pick a model and set its hyper-parameters
     - 📉 Train it and check its performance metrics on train and test data
-    - 🩺 Diagnose possible overitting and experiment with other settings
+    - 🩺 Diagnose possible overfitting and experiment with other settings
     -----
     """
     )
